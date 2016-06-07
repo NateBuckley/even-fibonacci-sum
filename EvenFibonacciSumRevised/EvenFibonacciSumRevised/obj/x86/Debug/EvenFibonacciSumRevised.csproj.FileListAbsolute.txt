@@ -1,0 +1,4 @@
+c:\users\nate\documents\visual studio 2010\Projects\EvenFibonacciSumRevised\EvenFibonacciSumRevised\bin\Debug\EvenFibonacciSumRevised.exe
+c:\users\nate\documents\visual studio 2010\Projects\EvenFibonacciSumRevised\EvenFibonacciSumRevised\bin\Debug\EvenFibonacciSumRevised.pdb
+c:\users\nate\documents\visual studio 2010\Projects\EvenFibonacciSumRevised\EvenFibonacciSumRevised\obj\x86\Debug\EvenFibonacciSumRevised.exe
+c:\users\nate\documents\visual studio 2010\Projects\EvenFibonacciSumRevised\EvenFibonacciSumRevised\obj\x86\Debug\EvenFibonacciSumRevised.pdb
